@@ -1,0 +1,2 @@
+challenge filter=lfs diff=lfs merge=lfs -text
+challenge-6b3865a123f6c8b5d9f58b34926768254048644c.7z filter=lfs diff=lfs merge=lfs -text
